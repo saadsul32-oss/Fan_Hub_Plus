@@ -1,0 +1,14 @@
+Demo video / audio bundled with Fan Hub Plus (so playback works offline on XAMPP)
+
+video/big-buck-bunny.mp4   Big Buck Bunny — (c) Blender Foundation, CC BY 3.0 (clip via mediaelement-files)
+video/sintel-part-1.mp4    Sintel — (c) Blender Foundation, CC BY 3.0 (MDN learning-area short cut, first minute)
+video/sintel-part-2.mp4    Sintel — (c) Blender Foundation, CC BY 3.0 (second minute)
+video/flower.mp4           MDN interactive-examples, CC0
+video/here-we-are.mp4      mediaelement-files demo clip
+audio/chasing-corporate.mp3  AirReview "Landmarks 02 – Chasing Corporate" (mediaelement-files demo)
+audio/outfoxing.mp3        MDN webaudio-examples demo track
+audio/viper.mp3            MDN learning-area demo track
+audio/sintel-score.mp3     Sintel soundtrack (Jan Morgenstern), CC BY 3.0
+
+Replace any of these with your own files: put them in this folder and set the
+item's "Media URL" in Admin → Content (e.g. assets/media/video/my-clip.mp4).
